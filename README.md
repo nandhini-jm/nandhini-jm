@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm [Nandhini Udhayakumar]</h1>
 <h3 align="center">A passionate learner & aspiring developer</h3>
 
-- 🌱 I’m currently learning **Java, HTML, CSS, and DSA**
+- 🌱 I’m currently learning **Java, HTML, CSS, and web design**
 - 👨‍💻 All of my projects are available at (https://github.com/nandhini-jm)
 - 💬 Ask me about **C++, Java, or programming basics**
 - 📫 How to reach me: (nandhiniujcse@gmail.com)
@@ -21,7 +21,7 @@
 
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nandhini-udhayakumar-58b2a730a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandhini-udhayakumar-58b2a730a)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nandhiniujcse@gmail.com)
 
 ---
